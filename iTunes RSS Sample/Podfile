@@ -1,0 +1,13 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, ‘8.1’
+
+target 'iTunes RSS Sample' do
+pod "AFNetworking", "~> 2.0"
+pod 'SDWebImage', '~>3.6'
+pod 'DLAlertView'
+end
+
+target 'iTunes RSS SampleTests' do
+
+end
+
